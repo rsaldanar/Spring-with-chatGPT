@@ -20,7 +20,7 @@ import java.util.List;
  */
 @Slf4j
 @RestController
-@RequestMapping("/question")
+@RequestMapping("/api/v1/question")
 @RequiredArgsConstructor
 public class QuestionController {
 

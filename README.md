@@ -109,4 +109,7 @@ This is one of the simplest forms that I have implemented in my case.
 ### Conclusion
    We have a basic implementation of chatgpt in a spring boot project, we can improve it by adding a database to save the conversations, or adding a front-end to make it more user-friendly.
    For more information on how to use the chatgpt-spring-boot-starter dependency, you can go to the following link https://github.com/flashvayne/chatgpt-spring-boot-starter/tree/master to see the documentation and actually The dependence we use is on him.
+
+   Run the project and go to [http://localhost:8080/api-docs](http://localhost:8080/api-docs)
+
    
